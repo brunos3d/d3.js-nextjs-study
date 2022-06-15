@@ -6,3 +6,17 @@
 
 <div align="center"><strong>Next.js | D3.js | TypeScript</strong></div>
 <div align="center">This is a demo of a heatmap using Next.js, D3.js and TypeScript.</div>
+
+#### Stack
+
+- [D3.js](https://d3js.org/)
+- [Next.js]([https://vitejs.dev](https://nextjs.org)/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+#### Preview
+
+https://d3-js-nextjs-study.vercel.app/
+
+#### Resources
+https://github.com/BrunoS3D/d3.js-chart-tooltip-study
+https://d3-graph-gallery.com/graph/line_cursor.html
