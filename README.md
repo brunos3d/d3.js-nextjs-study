@@ -10,7 +10,7 @@
 #### Stack
 
 - [D3.js](https://d3js.org/)
-- [Next.js]([https://vitejs.dev](https://nextjs.org)/)
+- [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 #### Preview
